@@ -1,0 +1,181 @@
+/* Title */
+title {
+  color: rgb(0, 4, 255);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Body */
+body {
+  background-color: rgb(8, 8, 84);
+  background-image: linear-gradient(rgb(3, 52, 98), hsl(241, 100%, 69%)); 
+  margin: 0%; 
+}
+hr {
+  color: hsl(0, 2%, 66%);
+  background-color: hsl(0, 4%, 87%);
+  height: 1.0px;
+  border: none;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+
+/* Paragraph */
+p {
+  color: rgb(255, 255, 255);
+  font-family: Arial, sans-serif;
+  text-align: left;
+  margin-inline: 20px;
+  margin-block: 20px;
+}
+pre {
+  color: rgb(255, 255, 255);
+  float: right;
+  font-weight: bold;
+
+}
+/* Heading 1 */
+h1 {
+  margin-top: 35px;
+  color: rgb(255, 255, 255);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Navigation */
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  flex-grow: 1;
+  justify-content: space-between; /* Added property */
+  padding-bottom: 20px;
+}
+
+li a {
+  display: block;
+  color: rgb(28, 219, 226);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border-color: hsla(244, 100%, 52%, 0.486);
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 8px;
+}
+
+li a:hover {
+  background-color: hsl(241, 100%, 69%);
+}
+a.T {
+  display: block;
+  padding: 10px;
+  background-color: #1d2de3;
+  color: #fdfdff;
+  text-decoration: none;
+  border-radius: 8px;
+  margin-left: 30px;
+  margin-right: 30px;
+  box-shadow: 10px 10px 13px rgba(7, 15, 66, 0.6);
+  
+}
+
+img.mb{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+a.header-link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  
+}
+
+ol.mb {
+  color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 15px; 
+  padding-right: 20px;
+  padding-top: 1px;
+  padding-bottom: 20px;
+  background-image: linear-gradient( hsl(241, 81%, 55%), rgb(3, 52, 98));
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  max-width: 50%;
+  
+}
+
+ul.mb {
+  color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-top: auto;
+  margin-right: 20px;
+  border-radius: 15px; 
+  list-style-type: none;
+  flex-direction: column; /* Change flex-direction to column */
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-image: linear-gradient( hsl(241, 81%, 55%), rgb(3, 52, 98));
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+ul.mb h4 {
+  margin-top: 0px; /* Set margin-top to 0 to remove space above the h4 element */
+  margin-bottom: 0px; /* Add margin-bottom to reduce the gap below the h4 element */
+}
+
+table.mb {
+  color: rgb(255, 255, 255);
+  text-align: left;
+  padding: 20px;
+  border-color: rgb(45, 10, 121);
+  border-style: solid;
+  border-width: 0; 
+  text-align: left;
+  margin-inline: 20px;
+  border-width: 0;
+  font-style: arial;
+  border-radius: 15px;
+  background-image: linear-gradient(hsl(241, 81%, 55%), rgb(3, 52, 98));
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+img.ima{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  border-radius: 2px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+}
+
+th.centre {
+  text-align: center;
+  background-image: linear-gradient(rgb(3, 52, 98), hsl(241, 100%, 69%));
+}
+
+
+p.main{
+    text-align: left;
+    margin-inline: 20px;
+    margin-block: 20px;
+    padding: 20px;
+    border-color: rgb(45, 10, 121);
+    border-style: solid;
+    border-width: 0;
+    font-style: arial;
+    border-radius: 15px;
+    background-image: linear-gradient( hsl(241, 81%, 55%), rgb(3, 52, 98));
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);  
+  }
+
+
+
