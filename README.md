@@ -33,6 +33,9 @@ cool idea:
   https://www.landscape.vc/compass
 
 
+other cool vc pages:
+  https://book.buildergroop.com/learning-venture-capital/misc-investor-database
+
 
 
 
