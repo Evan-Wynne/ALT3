@@ -40,6 +40,10 @@ other cool vc pages:
 
 
 
+notes:
+look into the prospect of getting refferal links for each vc that offers them.
+
+
 
 
 
