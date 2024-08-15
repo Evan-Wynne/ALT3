@@ -3,9 +3,11 @@ lc cs alt 3 - monte carlo simulation
 vc databases
 
 awesome websites for inspiration(look through these thoroughly rather than only exporting data:
-https://versatilevc.com/free/
-https://book.buildergroop.com/
-https://connect.visible.vc/investors?stages=%5B%22Pre-Seed%22%5D
+  https://versatilevc.com/free/
+  
+  https://book.buildergroop.com/
+  
+  https://connect.visible.vc/investors?stages=%5B%22Pre-Seed%22%5D
 
 
 ******************
