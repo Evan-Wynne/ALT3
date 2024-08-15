@@ -31,7 +31,8 @@ losts of data:
 
 cool idea:
   https://www.landscape.vc/compass
-
+A feature we could easily implement:
+  https://angelmatch.io/startup-fundraising-glossary
 
 other cool vc pages:
   https://book.buildergroop.com/learning-venture-capital/misc-investor-database
